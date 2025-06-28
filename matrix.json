@@ -14,13 +14,12 @@
       "tag": "master",
       "repository": "jellyfin/jellyfin-web",
       "artifact_name": "Jellyfin-master",
-      "modern": false
+      "modern": true
     },
     {
       "tag": "v10.10.7",
       "repository": "jellyfin/jellyfin-web",
-      "artifact_name": "Jellyfin",
-      "modern": false
+      "artifact_name": "Jellyfin"
     },
     {
       "tag": "release-10.9.z",
